@@ -7,12 +7,6 @@
   <br>
 </h1>
 
-<div align="center">
-
-[![Travis badge](https://travis-ci.org/salomonelli/best-resume-ever.svg?branch=master)](https://travis-ci.org/salomonelli/best-resume-ever)
-
-</div>
-
 <h4 align="center">
   :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever!
   <br><br>
